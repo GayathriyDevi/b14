@@ -72,9 +72,11 @@ cd ~/dev_ws
 colcon build
 ```
 #### 9. Create the "model.sdf" file to define the robot's characteristics, including the lidar sensor.
+![img1](https://github.com/GayathriyDevi/b14/assets/137894763/4a0db7f3-5183-46c9-ad9a-8aa306a9bbbf)
 
-![img1](https://github.com/GayathriyDevi/team14b/assets/137894763/197cc407-0613-42e4-808c-4943edbc933d)
-![img2](https://github.com/GayathriyDevi/team14b/assets/137894763/103c18f5-1768-47e8-8a9b-c6c729299254)
+![img2](https://github.com/GayathriyDevi/b14/assets/137894763/dd355d59-06e7-4213-aa97-cf4f90382384)
+
+
 
 
 #### 10. Implement navigation and SLAM using the ROS 2 Navigation Stack. Configure and customize the navigation stack to fit your robot's requirements.
