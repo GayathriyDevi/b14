@@ -82,6 +82,8 @@ colcon build
 #### 10. Implement navigation and SLAM using the ROS 2 Navigation Stack. Configure and customize the navigation stack to fit your robot's requirements.
 
 #### 11. Create a world file and save it in the "worlds" folder. This file defines the simulated environment in Gazebo.
+![img3](https://github.com/GayathriyDevi/b14/assets/137894763/01165178-53cf-4f62-8b4b-27ae87d179c2)
+
 
 #### 12. Place the "world.pgm" and "world.yaml" files inside the "maps" folder. These files represent the map used for navigation.
 
