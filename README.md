@@ -82,6 +82,10 @@ LIDAR in an autonomous car is a sensor that uses laser beams to measure distance
 
 
 #### 10. Implement navigation and SLAM using the ROS 2 Navigation Stack. Configure and customize the navigation stack to fit your robot's requirements.
+![lidar1](https://github.com/GayathriyDevi/b14/assets/137894763/9a0c3605-9cae-4b5c-9299-2940dead7522)
+
+![lidar2](https://github.com/GayathriyDevi/b14/assets/137894763/103fee2e-7b5d-4982-8a02-06c60b1e9f29)
+
 
 
 #### 11. Create a world file and save it in the "worlds" folder. This file defines the simulated environment in Gazebo.
@@ -101,6 +105,7 @@ LIDAR in an autonomous car is a sensor that uses laser beams to measure distance
 
 https://github.com/GayathriyDevi/b14/assets/137894763/9d214ffa-2f7a-4c2e-9797-041f9c36cd6b
 
+![world_lidar](https://github.com/GayathriyDevi/b14/assets/137894763/5d0a0006-e8ac-4686-93d6-11dba8bfbf62)
 
 
 
