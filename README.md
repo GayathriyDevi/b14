@@ -36,7 +36,7 @@ cd src
 #### 3. Add the workspace setup to the `.bashrc` file:
 
 ```bash
-echo "source ~/dev_ws/install/setup.bash" >> ~/.bashrc
+echo "source ~/rev_ws/install/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 ```
 
@@ -68,7 +68,7 @@ install(
 #### 8. Build the packages using colcon:
 
 ```bash
-cd ~/dev_ws
+cd ~/rev_ws
 colcon build
 ```
 #### 9. Create the "model.sdf" file to define the robot's characteristics, including the lidar sensor.
