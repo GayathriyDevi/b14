@@ -95,4 +95,11 @@ colcon build
 
 #### 16. Launch the system by executing the appropriate launch file(s) based on your setup and requirements.
 
+
+
+https://github.com/GayathriyDevi/b14/assets/137894763/8d7222c2-fa3d-457d-8ecb-74d4c614ed8d
+
+
+
+
 By following these steps, you can establish a development workspace, add packages, configure dependencies, build the packages, set up the simulation environment, define the robot's characteristics, implement navigation and object-following behavior, and launch the system in Gazebo.
