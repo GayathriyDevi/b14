@@ -96,8 +96,8 @@ colcon build
 #### 16. Launch the system by executing the appropriate launch file(s) based on your setup and requirements.
 
 
+https://github.com/GayathriyDevi/b14/assets/137894763/9d214ffa-2f7a-4c2e-9797-041f9c36cd6b
 
-https://github.com/GayathriyDevi/b14/assets/137894763/8d7222c2-fa3d-457d-8ecb-74d4c614ed8d
 
 
 
