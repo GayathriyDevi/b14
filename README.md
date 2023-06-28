@@ -71,15 +71,18 @@ install(
 cd ~/rev_ws
 colcon build
 ```
+## lidar sensor
+LIDAR in an autonomous car is a sensor that uses laser beams to measure distances and create a detailed 3D map of the surroundings. In ROS2, it helps the car follow a specific point by continuously scanning its environment and detecting the position of the desired point relative to the car's location. This information is used to calculate precise movements and maintain a desired distance or trajectory.
+
+
 #### 9. Create the "model.sdf" file to define the robot's characteristics, including the lidar sensor.
 ![img1](https://github.com/GayathriyDevi/b14/assets/137894763/4a0db7f3-5183-46c9-ad9a-8aa306a9bbbf)
 
 ![img2](https://github.com/GayathriyDevi/b14/assets/137894763/dd355d59-06e7-4213-aa97-cf4f90382384)
 
 
-
-
 #### 10. Implement navigation and SLAM using the ROS 2 Navigation Stack. Configure and customize the navigation stack to fit your robot's requirements.
+
 
 #### 11. Create a world file and save it in the "worlds" folder. This file defines the simulated environment in Gazebo.
 ![img3](https://github.com/GayathriyDevi/b14/assets/137894763/01165178-53cf-4f62-8b4b-27ae87d179c2)
