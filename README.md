@@ -15,7 +15,7 @@ The source code is organized within the 'src' directory, following ROS2 package 
 ### Prerequisites
 
 - sudo apt install ros-humble-joint-state-publisher-gui
-- sudo apt install ros-foxy-xacro
+- sudo apt install ros-humble-xacro
 
 To begin, we set up a development workspace called "rev_ws" with the following structure:
 #### 1. Create the "rev_ws" workspace:
